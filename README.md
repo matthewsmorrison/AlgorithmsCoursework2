@@ -1,3 +1,1 @@
-#Algorithms Coursework #2
-
-'#####################################''
+# Algorithms Coursework \#2
